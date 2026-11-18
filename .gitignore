@@ -1,0 +1,7 @@
+# Dataset - download from Kaggle: March Machine Learning Mania 2026
+march-machine-learning-mania-2026/
+*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
